@@ -93,8 +93,7 @@ int main() {
     printf("DFS Traversal : ");
     dfs_traverse(root);
     printf("\n");
-
-    
+ 
     free_tree(root);
     return 0;
 }
